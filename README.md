@@ -14,7 +14,7 @@ RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition (AAAI 2025)
 
 ## Visualization of RA-GAR
 
-@import "./assets/Fig2.svg"
+<img src="./assets/Fig2.svg"/>
 
 
 ## Download RA-GAR
@@ -44,7 +44,7 @@ Please cite the following paper if you find this useful in your research:
 ```
 
 
-## Note:
+## Note
 RA-GAR is provided strictly for **academic research purposes only**.
 **Commercial use is strictly prohibited.**
 
